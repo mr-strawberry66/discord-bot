@@ -1,0 +1,2 @@
+export TOKEN="Your discord API token"
+export ROLE_NAME="Name of role to assign"
